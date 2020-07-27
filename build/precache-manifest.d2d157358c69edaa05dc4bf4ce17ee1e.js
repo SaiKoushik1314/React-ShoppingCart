@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8ed87ff92351141e29cb",
-    "url": "/React-ShoppingCart/static/css/main.7bc35809.chunk.css"
+    "revision": "64e013427d84ed5e2f34",
+    "url": "/React-ShoppingCart/static/css/main.9982909e.chunk.css"
   },
   {
-    "revision": "8ed87ff92351141e29cb",
-    "url": "/React-ShoppingCart/static/js/main.8ed87ff9.chunk.js"
+    "revision": "64e013427d84ed5e2f34",
+    "url": "/React-ShoppingCart/static/js/main.64e01342.chunk.js"
   },
   {
     "revision": "99d7c59f45359249397b",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/React-ShoppingCart/static/media/item6.f5fd97b5.jpg"
   },
   {
-    "revision": "a8ff83a3afa17ca546ac5bd632ebb198",
+    "revision": "5ef79c5d4539ec823695c1cb77382b23",
     "url": "/React-ShoppingCart/index.html"
   }
 ];
